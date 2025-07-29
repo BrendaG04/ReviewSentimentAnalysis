@@ -16,3 +16,5 @@ Helps publishers/authors:
 - Track customer sentiment at scale
 - Identify improvement areas
 - Benchmark against competitors
+
+https://www.breakthroughtech.org/programs/the-ai-program/
